@@ -7,18 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF93F44F28490AF10032A926 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF93F44E28490AF10032A926 /* OnboardingView.swift */; };
+		FF93F45228490F320032A926 /* FoodModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF93F45128490F320032A926 /* FoodModel.swift */; };
+		FF93F455284911240032A926 /* FoodData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF93F454284911240032A926 /* FoodData.swift */; };
 		FFB08149283E81F9004651FB /* ValheimFoodGuideApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB08148283E81F9004651FB /* ValheimFoodGuideApp.swift */; };
 		FFB0814B283E81F9004651FB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB0814A283E81F9004651FB /* ContentView.swift */; };
 		FFB0814D283E81FD004651FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFB0814C283E81FD004651FB /* Assets.xcassets */; };
 		FFB08150283E81FD004651FB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFB0814F283E81FD004651FB /* Preview Assets.xcassets */; };
+		FFB08159283E87F8004651FB /* FoodCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB08158283E87F8004651FB /* FoodCardView.swift */; };
+		FFB0815B283E9188004651FB /* StartButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB0815A283E9188004651FB /* StartButtonView.swift */; };
+		FFC21EB9284A5585005A8FD4 /* FoodRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC21EB8284A5585005A8FD4 /* FoodRowView.swift */; };
+		FFC21EBB284A5B33005A8FD4 /* FoodDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC21EBA284A5B33005A8FD4 /* FoodDetailView.swift */; };
+		FFC21EBD284A5EFB005A8FD4 /* FoodHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC21EBC284A5EFB005A8FD4 /* FoodHeaderView.swift */; };
+		FFC21EBF284A61BF005A8FD4 /* SourceLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC21EBE284A61BF005A8FD4 /* SourceLinkView.swift */; };
+		FFC21EC1284A652C005A8FD4 /* FoodEffectsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC21EC0284A652C005A8FD4 /* FoodEffectsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FF93F44E28490AF10032A926 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
+		FF93F45128490F320032A926 /* FoodModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodModel.swift; sourceTree = "<group>"; };
+		FF93F454284911240032A926 /* FoodData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodData.swift; sourceTree = "<group>"; };
 		FFB08145283E81F9004651FB /* ValheimFoodGuide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ValheimFoodGuide.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFB08148283E81F9004651FB /* ValheimFoodGuideApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ValheimFoodGuideApp.swift; sourceTree = "<group>"; };
 		FFB0814A283E81F9004651FB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FFB0814C283E81FD004651FB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FFB0814F283E81FD004651FB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FFB08158283E87F8004651FB /* FoodCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodCardView.swift; sourceTree = "<group>"; };
+		FFB0815A283E9188004651FB /* StartButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartButtonView.swift; sourceTree = "<group>"; };
+		FFC21EB8284A5585005A8FD4 /* FoodRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodRowView.swift; sourceTree = "<group>"; };
+		FFC21EBA284A5B33005A8FD4 /* FoodDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodDetailView.swift; sourceTree = "<group>"; };
+		FFC21EBC284A5EFB005A8FD4 /* FoodHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodHeaderView.swift; sourceTree = "<group>"; };
+		FFC21EBE284A61BF005A8FD4 /* SourceLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SourceLinkView.swift; sourceTree = "<group>"; };
+		FFC21EC0284A652C005A8FD4 /* FoodEffectsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodEffectsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +52,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		FF93F45028490F040032A926 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				FF93F45128490F320032A926 /* FoodModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		FF93F453284911040032A926 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				FF93F454284911240032A926 /* FoodData.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
 		FFB0813C283E81F9004651FB = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +87,10 @@
 		FFB08147283E81F9004651FB /* ValheimFoodGuide */ = {
 			isa = PBXGroup;
 			children = (
-				FFB08148283E81F9004651FB /* ValheimFoodGuideApp.swift */,
-				FFB0814A283E81F9004651FB /* ContentView.swift */,
+				FF93F453284911040032A926 /* Data */,
+				FF93F45028490F040032A926 /* Model */,
+				FFB08157283E879A004651FB /* View */,
+				FFB08156283E8743004651FB /* App */,
 				FFB0814C283E81FD004651FB /* Assets.xcassets */,
 				FFB0814E283E81FD004651FB /* Preview Content */,
 			);
@@ -65,6 +103,30 @@
 				FFB0814F283E81FD004651FB /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FFB08156283E8743004651FB /* App */ = {
+			isa = PBXGroup;
+			children = (
+				FFB08148283E81F9004651FB /* ValheimFoodGuideApp.swift */,
+				FFB0814A283E81F9004651FB /* ContentView.swift */,
+				FF93F44E28490AF10032A926 /* OnboardingView.swift */,
+				FFC21EBA284A5B33005A8FD4 /* FoodDetailView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		FFB08157283E879A004651FB /* View */ = {
+			isa = PBXGroup;
+			children = (
+				FFB08158283E87F8004651FB /* FoodCardView.swift */,
+				FFB0815A283E9188004651FB /* StartButtonView.swift */,
+				FFC21EB8284A5585005A8FD4 /* FoodRowView.swift */,
+				FFC21EBC284A5EFB005A8FD4 /* FoodHeaderView.swift */,
+				FFC21EBE284A61BF005A8FD4 /* SourceLinkView.swift */,
+				FFC21EC0284A652C005A8FD4 /* FoodEffectsView.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +199,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF93F455284911240032A926 /* FoodData.swift in Sources */,
+				FFC21EBF284A61BF005A8FD4 /* SourceLinkView.swift in Sources */,
 				FFB0814B283E81F9004651FB /* ContentView.swift in Sources */,
+				FFC21EC1284A652C005A8FD4 /* FoodEffectsView.swift in Sources */,
+				FFC21EBB284A5B33005A8FD4 /* FoodDetailView.swift in Sources */,
+				FFB0815B283E9188004651FB /* StartButtonView.swift in Sources */,
 				FFB08149283E81F9004651FB /* ValheimFoodGuideApp.swift in Sources */,
+				FF93F45228490F320032A926 /* FoodModel.swift in Sources */,
+				FF93F44F28490AF10032A926 /* OnboardingView.swift in Sources */,
+				FFB08159283E87F8004651FB /* FoodCardView.swift in Sources */,
+				FFC21EB9284A5585005A8FD4 /* FoodRowView.swift in Sources */,
+				FFC21EBD284A5EFB005A8FD4 /* FoodHeaderView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +344,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -300,6 +373,7 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
