@@ -1,5 +1,5 @@
 # ValheimFoodGuide
-## An iOS app project using SwiftUI.
+## An iOS App Project Using SwiftUI
 ### Project Description
 #### Background
 Hiya fellow coder :wave:. This was my first practice with SwiftUI, and I thought it would be fun to create a resource guide for the multiplayer survival game *Valheim*. 
@@ -13,11 +13,11 @@ as well as a dropdown listing all the stats (health, stamina, duration). I also 
 * Some features I hope to implement in the future: adding search-bar and better quality images. I would like to keep it as simple as possible.<br>
 #### How to View My Project
 * Install [Xcode](https://apps.apple.com/us/app/xcode/id497799835?mt=12) on macOS
-* Choose 'clone an existing project'.
+* Choose 'clone an existing project'.<br>
 ![XcodeSS](https://user-images.githubusercontent.com/72266833/182178925-221e214d-5947-4e31-a0eb-7632ff3591f4.png)
-* Paste in my [repositor URL](https://github.com/IsthisSid/ValheimFoodGuide.git).
+* Paste in my [repositor URL](https://github.com/IsthisSid/ValheimFoodGuide.git).<br>
 ![SSVFG1](https://user-images.githubusercontent.com/72266833/182180434-215271e5-5e63-46ba-8268-df374f88e1ff.png)
-* Choose your iPhone simulator and tap the play button.
+* Choose your iPhone simulator and tap the play button.<br>
 ![SSVFG2](https://user-images.githubusercontent.com/72266833/182180444-4b0b353f-73e0-469a-8d02-0501b79925ab.png)
 #### Credits
 The tutorial I followed was [Udemy course: SwiftUI Masterclass 2022 - iOS App Development & Swift](https://www.udemy.com/course/swiftui-masterclass-course-ios-development-with-swift/)
